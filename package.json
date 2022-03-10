@@ -1,0 +1,23 @@
+{
+  "name": "dominos-need-help",
+  "version": "1.0.0",
+  "description": "dominos need help",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nainasinha93/dominosneedyourhelp.git"
+  },
+  "author": "Naina Sinha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nainasinha93/dominosneedyourhelp/issues"
+  },
+  "homepage": "https://github.com/nainasinha93/dominosneedyourhelp#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
